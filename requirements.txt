@@ -1,0 +1,19 @@
+# requerimientos para un modelo predictivo
+pandas
+numpy
+scikit-learn
+matplotlib
+# seaborn
+# sweetbiz
+sweetviz 
+# ipykernel
+ipykernel
+# jupyter
+# jupyter
+# # jupyterlab
+# jupyterlab
+# # jupyterlab-git
+# jupyterlab-git
+# # jupyterlab-lsp
+# jupyterlab-lsp
+openpyxl
